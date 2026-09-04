@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "menu",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-10-08",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "menu",
+      "database_id": ""
+    }
+  ],
+  "vars": {
+    "JWT_SECRET": "add-also-here",
+    "APP_ENV": "development"
+  }
+}
