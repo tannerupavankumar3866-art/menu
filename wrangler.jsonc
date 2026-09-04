@@ -11,7 +11,7 @@
     }
   ],
   "vars": {
-    "JWT_SECRET": "add-also-here",
+    "JWT_SECRET": "0e9a6ebf-2b99-472d-b882-5d9d0a6c30c1",
     "APP_ENV": "development"
   }
 }
